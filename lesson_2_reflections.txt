@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates the essential .git folder to store the history of the files.
+I think I only need to initialize a repository
+when I am going to use git to track my files.
